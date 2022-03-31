@@ -1,4 +1,4 @@
-## What is a Agile
+## What is an Agile
 - I can say its an incremental release 
 
 
