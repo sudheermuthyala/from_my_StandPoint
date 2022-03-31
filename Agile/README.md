@@ -1,2 +1,2 @@
 ## What is a Agile
-- I c
+- I can say its an incremental 
