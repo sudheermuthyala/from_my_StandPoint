@@ -1,2 +1,2 @@
 ## What is a Agile
-- I can say its an incremental 
+- I can say its an incremental release 
